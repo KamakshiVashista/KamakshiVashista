@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kamakshi Vashista</h1>
-<h3 align="center">A passionate frontend developer from India and DSA enthusiast from India.</h3>
+<h3 align="center">A passionate frontend developer and DSA enthusiast from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif">
 
